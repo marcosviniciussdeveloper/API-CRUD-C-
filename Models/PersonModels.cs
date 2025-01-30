@@ -8,10 +8,13 @@ using Microsoft.EntityFrameworkCore;
         {
             Name = name;
             Id = Guid.NewGuid();
+            Isactive = true;
         }
         public Guid Id { get; init; }
         public string Name { get; private set; } = string.Empty;
-
+        
+        public bool Isactive { get; private set; }  
+        
         public void ChangenName (string name)
         {
             Name = name;
@@ -20,7 +23,7 @@ using Microsoft.EntityFrameworkCore;
         public void SetInactive()
         {
 
-            Name = "Desativado";
+            Isactive = false;
         }
     }
 

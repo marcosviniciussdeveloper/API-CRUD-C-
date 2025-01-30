@@ -28,9 +28,9 @@ public static class PersonRoute
             });
 
         route.MapPut(pattern: "{id:guid}",
-            async (Guid id, PersonRequest req, PersonContext context , CancellationToken ct) =>
+            async (Guid id, PersonRequest req, PersonContext context, CancellationToken ct) =>
           {
-              var person = await context.People.FirstOrDefaultAsync( PersonModel => id == id);
+              var person = await context.People.FirstOrDefaultAsync(PersonModel => id == id);
 
               if (person == null)
                   return Results.NotFound(null);
@@ -41,18 +41,21 @@ public static class PersonRoute
               return Results.Ok(person);
           });
 
-        route.MapDelete(pattern: "{id:guid}", 
-         async  (Guid id , PersonContext context) =>
+        route.MapDelete(pattern: "{id:guid}",
+         async (Guid id, PersonContext context) =>
         {
-            var person = await context.People.FirstOrDefaultAsync( Person => Person.Id == id);
+            var person = await context.People.FirstOrDefaultAsync(p => p.Id == id);
 
             if (person == null)
                 return Results.NotFound(null);
+
             person.SetInactive();
             await context.SaveChangesAsync();
 
-            return Results.Ok(person);
+            return Results.Ok(new { message = "Usuario desativado com sucesso", person });
         });
     }
-
 }
+
+
+

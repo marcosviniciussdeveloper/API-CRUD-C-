@@ -3,24 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\models\\personmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:models\\personmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\models\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:models\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\models\\personmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:models\\personmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\migrations\\personcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|solutionrelative:migrations\\personcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE71621E-4C1C-4A66-B940-9E52C7817A50}|ApiCrud.csproj|c:\\users\\usuario\\desktop\\api.modern\\apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +57,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALAUAAAAAAAAAIAwwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-30T23:07:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Migrations\\PersonContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PersonContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Migrations\\PersonContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PersonContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:38:14.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PersonRequest.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Models\\PersonRequest.cs",
               "RelativeDocumentMoniker": "Models\\PersonRequest.cs",
@@ -58,11 +91,12 @@
               "RelativeToolTip": "Models\\PersonRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:43:13.803Z"
+              "WhenOpened": "2025-01-30T15:43:13.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApiCrud.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\ApiCrud.csproj",
               "RelativeDocumentMoniker": "ApiCrud.csproj",
@@ -70,54 +104,57 @@
               "RelativeToolTip": "ApiCrud.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-30T00:09:45.923Z"
+              "WhenOpened": "2025-01-30T00:09:45.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Data\\PersonContext.cs",
               "RelativeDocumentMoniker": "Data\\PersonContext.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Data\\PersonContext.cs",
               "RelativeToolTip": "Data\\PersonContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T00:05:26.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonModels.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Models\\PersonModels.cs",
               "RelativeDocumentMoniker": "Models\\PersonModels.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Models\\PersonModels.cs",
               "RelativeToolTip": "Models\\PersonModels.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:13.594Z"
+              "WhenOpened": "2025-01-29T23:24:13.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PersonRoutes.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Routes\\PersonRoutes.cs",
               "RelativeDocumentMoniker": "Routes\\PersonRoutes.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Routes\\PersonRoutes.cs",
               "RelativeToolTip": "Routes\\PersonRoutes.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:16:56.907Z"
+              "WhenOpened": "2025-01-29T23:16:56.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\API.Modern\\ApiCrud\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T22:52:14.346Z",
               "EditorCaption": ""

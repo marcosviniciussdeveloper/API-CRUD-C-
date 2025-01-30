@@ -10,8 +10,8 @@ public class PersonContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite(connectionString: "Data Source = person.SqLite");
-        base.OnConfiguring(optionsBuilder);
+        var connectionString = Environment.GetEnvironmentVariable("DATAVASE_URL") ?? "Data Source =person.Sqlite";
+        optionsBuilder.UseSqlite(connectionString);
     }
    
 }
