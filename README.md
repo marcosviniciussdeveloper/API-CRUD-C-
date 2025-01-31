@@ -60,7 +60,7 @@ http://localhost:8080/swagger
 
 ## 🌍 **Deploy no Render**
 Esta API está hospedada no **Render** e pode ser acessada através do seguinte link:
-🔗 **[API Online](https://SEU-LINK-DO-RENDER.onrender.com)**
+🔗 **[API Online](https://api-crud-8jgp.onrender.com/swagger)**
 
 Exemplo de requisição para listar usuários:
 ```sh
