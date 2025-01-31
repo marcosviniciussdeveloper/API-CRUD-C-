@@ -30,7 +30,7 @@ public static class PersonRoute
         route.MapPut(pattern: "{id:guid}",
             async (Guid id, PersonRequest req, PersonContext context, CancellationToken ct) =>
           {
-              var person = await context.People.FirstOrDefaultAsync(PersonModel => id == id);
+              var person = await context.People.FirstOrDefaultAsync(p => p.Id == id);
 
               if (person == null)
                   return Results.NotFound(null);
