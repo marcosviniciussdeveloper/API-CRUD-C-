@@ -1,18 +1,16 @@
 ﻿using ApiCrud.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 
-namespace ApiCrud.Data;
-
-
-public class PersonContext : DbContext
+namespace ApiCrud.Data
 {
-    public DbSet<PersonModel> People { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    public class PersonContext : DbContext
     {
-        var connectionString = Environment.GetEnvironmentVariable("DATAVASE_URL") ?? "Data Source =person.Sqlite";
-        optionsBuilder.UseSqlite(connectionString);
-    }
-   
-}
+        public DbSet<PersonModel> People { get; set; }
 
+        public PersonContext(DbContextOptions<PersonContext> options) : base(options) { }
+
+    }
+}
+       

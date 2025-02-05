@@ -2,7 +2,8 @@
 using ApiCrud.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.CodeAnalysis;
-
+using Microsoft.Extensions.Configuration;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 namespace ApiCrud.Routes;
 
 

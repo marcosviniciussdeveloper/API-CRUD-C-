@@ -1,0 +1,9 @@
+# Ignorar pastas de build e arquivos do Visual Studio
+.vs/
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+project.nuget.cache
